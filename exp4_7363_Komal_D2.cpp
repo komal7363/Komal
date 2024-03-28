@@ -1,3 +1,6 @@
+//Define constructor. Create a Number class. Include one constructure to initialize the data members of
+//class. Also add the function to convert a decimal number into binary number.
+
 #include <iostream>
 #include <string> 
 using namespace std;
