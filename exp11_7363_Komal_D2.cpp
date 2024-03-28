@@ -1,3 +1,8 @@
+//Create a base class Employee with a virtual function calculateSalary(). Different types of employees, such as
+//full-time employees, part-time employees, and managers, have varying salary calculation methods. Explain
+//how you would implement calculateSalary() in derived classes to handle salary calculation differently for
+//each employee type.
+
 #include <iostream>
 using namespace std;
 
